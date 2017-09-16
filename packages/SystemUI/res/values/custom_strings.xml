@@ -20,4 +20,6 @@
     <string name="quick_settings_pip_label">PiP</string>
     <!-- Content description of the data connection type HSPA+ for accessibility (not shown on the screen). [CHAR LIMIT=NONE] -->
     <string name="accessibility_data_connection_HP">HSPA+</string>
+    <!-- volte icon switch -->
+    <string name="status_bar_volte">VoLTE</string>
 </resources>
